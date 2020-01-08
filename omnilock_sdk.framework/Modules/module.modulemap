@@ -1,0 +1,6 @@
+framework module omnilock_sdk {
+  umbrella header "omnilock_sdk.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+framework module AKBLEKit {
+  umbrella header "AKBLEKit.h"
+
+  export *
+  module * { export * }
+}
+
+module AKBLEKit.Swift {
+    header "AKBLEKit-Swift.h"
+    requires objc
+}

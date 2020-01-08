@@ -1,0 +1,249 @@
+
+/* Class = "UILabel"; text = "AHORA\na DD/MM/YYY"; ObjectID = "117-fh-Pzq"; */
+"117-fh-Pzq.text" = "\nto DD/MM/YYY";
+
+/* Class = "UILabel"; text = "Fecha de nacimiento"; ObjectID = "1rf-C6-VWO"; */
+"1rf-C6-VWO.text" = "Birth date";
+
+/* Class = "UILabel"; text = "HAZTE UN SELFIE"; ObjectID = "2kG-TV-h9m"; */
+"2kG-TV-h9m.text" = "TAKE A SELFIE";
+
+/* Class = "UITextField"; text = "https://api.chekin.io/lnk/9xa"; ObjectID = "349-Bo-VVd"; */
+"349-Bo-VVd.text" = "https://api.chekin.io/lnk/9xa";
+
+/* Class = "UILabel"; text = "¡HOLA!"; ObjectID = "3ZZ-Kq-JBp"; */
+"3ZZ-Kq-JBp.text" = "¡HI!";
+
+/* Class = "UILabel"; text = "AÑADE TUS DATOS PERSONALES"; ObjectID = "3pc-UO-m6s"; */
+"3pc-UO-m6s.text" = "FILL OUT YOUR PERSONAL DETAILS";
+
+/* Class = "UILabel"; text = "Nacionalidad"; ObjectID = "46I-cz-btb"; */
+"46I-cz-btb.text" = "Nationality";
+
+/* Class = "UILabel"; text = "Apellidos"; ObjectID = "4Xl-o0-TDY"; */
+"4Xl-o0-TDY.text" = "Last name";
+
+/* Class = "UILabel"; text = "ESCANEA TU DOCUMENTO"; ObjectID = "5Rt-IV-PTQ"; */
+"5Rt-IV-PTQ.text" = "SCAN PASSPORT/ID";
+
+/* Class = "UILabel"; text = "Escaneado con éxito"; ObjectID = "8IW-Wp-NjY"; */
+"8IW-Wp-NjY.text" = "Successful scan";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "8yw-iO-QR9"; */
+"8yw-iO-QR9.text" = "First name";
+
+/* Class = "UILabel"; text = "HOTEL OASIS"; ObjectID = "9jP-Wt-KO8"; */
+"9jP-Wt-KO8.text" = "HOTEL OASIS";
+
+/* Class = "UILabel"; text = "VERIFICACIÓN"; ObjectID = "A6y-zl-7Rz"; */
+"A6y-zl-7Rz.text" = "VERIFICATION";
+
+/* Class = "UILabel"; text = "AÑADE TU FIRMA"; ObjectID = "CKJ-Is-sH3"; */
+"CKJ-Is-sH3.text" = "ADD YOUR SIGNATURE";
+
+/* Class = "UILabel"; text = "Sexo"; ObjectID = "CZY-AP-HAV"; */
+"CZY-AP-HAV.text" = "Sex";
+
+/* Class = "UILabel"; text = "Habitación 124"; ObjectID = "Dm0-75-SbF"; */
+"Dm0-75-SbF.text" = "Room 124";
+
+/* Class = "UIButton"; normalTitle = "COMPARTIR POR WHATSAPP"; ObjectID = "F2Q-Y9-zNH"; */
+"F2Q-Y9-zNH.normalTitle" = "SHARE ON WHATSAPP";
+
+/* Class = "UILabel"; text = "Marrakesh"; ObjectID = "Fd4-bt-Fkt"; */
+"Fd4-bt-Fkt.text" = "Marrakesh";
+
+/* Class = "UIButton"; normalTitle = "CAPTURAR"; ObjectID = "GWe-BM-rwO"; */
+"GWe-BM-rwO.normalTitle" = "CAPTURE";
+
+/* Class = "UILabel"; text = "MIS RESERVAS"; ObjectID = "HE9-fN-YmK"; */
+"HE9-fN-YmK.text" = "MY BOOKINGS";
+
+/* Class = "UILabel"; text = "¿Tienes alguna duda?"; ObjectID = "HpL-G4-s99"; */
+"HpL-G4-s99.text" = "Any question?";
+
+/* Class = "UIButton"; normalTitle = "FIRMAR"; ObjectID = "Hr7-gU-8MD"; */
+"Hr7-gU-8MD.normalTitle" = "SIGN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IRw-jn-mBa"; */
+"IRw-jn-mBa.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "ENVIAR"; ObjectID = "JTh-XN-icO"; */
+"JTh-XN-icO.normalTitle" = "SEND";
+
+/* Class = "UILabel"; text = "Abrir"; ObjectID = "K9F-pE-LGd"; */
+"K9F-pE-LGd.text" = "Open";
+
+/* Class = "UILabel"; text = "Fecha de expedición"; ObjectID = "KVk-ew-mZr"; */
+"KVk-ew-mZr.text" = "Date of issue";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "Ksl-na-pVN"; */
+"Ksl-na-pVN.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "¡VERIFICADO!"; ObjectID = "M0f-zt-piY"; */
+"M0f-zt-piY.text" = "¡VERIFIED!";
+
+/* Class = "UILabel"; text = "Abrir"; ObjectID = "Mc2-NM-SHn"; */
+"Mc2-NM-SHn.text" = "Open";
+
+/* Class = "UILabel"; text = "¡ENHORABUENA, ALEX!"; ObjectID = "Moe-HX-dOB"; */
+"Moe-HX-dOB.text" = "¡CONGRATULATIONS, ALEX!";
+
+/* Class = "UILabel"; text = "Para completar el check-in Online, necesitamos tu firma en el recuadro. Puedes usar tu ratón o tu dedo (móvil)."; ObjectID = "MtT-be-0kt"; */
+"MtT-be-0kt.text" = "To complete the online check-in, we need your signature in the box. You can use your mouse or your finger (mobile).";
+
+/* Class = "UILabel"; text = "¡COMPARTE!"; ObjectID = "N9R-0b-4ch"; */
+"N9R-0b-4ch.text" = "¡SHARE!";
+
+/* Class = "UIButton"; normalTitle = "VERIFICAR"; ObjectID = "NGe-Bi-RaV"; */
+"NGe-Bi-RaV.normalTitle" = "VERIFY";
+
+/* Class = "UILabel"; text = "Fantástico. Tu selfie y tu foto en el documento coinciden."; ObjectID = "NYB-bJ-b19"; */
+"NYB-bJ-b19.text" = "Great. Your selfie matches your photo in the document.";
+
+/* Class = "UIButton"; normalTitle = "ESCANEAR DNI/PASAPORTE"; ObjectID = "OHF-rR-D19"; */
+"OHF-rR-D19.normalTitle" = "SCAN PASSPORT/ID CARD";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Orx-Fi-qdk"; */
+"Orx-Fi-qdk.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Abrir"; ObjectID = "PJH-Os-ncI"; */
+"PJH-Os-ncI.text" = "Open";
+
+/* Class = "UILabel"; text = "Tu telefono"; ObjectID = "Q1q-09-IYP"; */
+"Q1q-09-IYP.text" = "Your phone";
+
+/* Class = "UIButton"; normalTitle = "REPETIR FIRMA"; ObjectID = "QC9-ai-bwz"; */
+"QC9-ai-bwz.normalTitle" = "CLEAR SIGNATURE";
+
+/* Class = "UIButton"; normalTitle = "Términos y Condiciones"; ObjectID = "RFY-tu-q3P"; */
+"RFY-tu-q3P.normalTitle" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "COMPARANDO..."; ObjectID = "Rkd-Jn-J9e"; */
+"Rkd-Jn-J9e.text" = "COMPARING...";
+
+/* Class = "UIButton"; normalTitle = "COMPARTIR"; ObjectID = "S6z-P7-HKe"; */
+"S6z-P7-HKe.normalTitle" = "SHARE";
+
+/* Class = "UIButton"; normalTitle = "REPETIR"; ObjectID = "Tqe-Y3-pcz"; */
+"Tqe-Y3-pcz.normalTitle" = "REPEAT";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UVG-2n-AD1"; */
+"UVG-2n-AD1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Num/codigo documento"; ObjectID = "UeO-Rl-ktu"; */
+"UeO-Rl-ktu.text" = "Document code";
+
+/* Class = "UIButton"; normalTitle = "REGISTRAR A OTRA PERSONA"; ObjectID = "VLr-EI-8qP"; */
+"VLr-EI-8qP.normalTitle" = "REGISTER ANOTHER PERSON";
+
+/* Class = "UILabel"; text = "España"; ObjectID = "WPl-ue-gNb"; */
+"WPl-ue-gNb.text" = "Spain";
+
+/* Class = "UIButton"; normalTitle = "FAQ"; ObjectID = "War-2Q-pCQ"; */
+"War-2Q-pCQ.normalTitle" = "FAQ";
+
+/* Class = "UILabel"; text = "¿Deseas llamar al\n+212 090 242 111?"; ObjectID = "WvF-gY-Dgc"; */
+"WvF-gY-Dgc.text" = "¿Do you want to call\n+212 090 242 111?";
+
+/* Class = "UILabel"; text = "REGISTRO COMPLETADO"; ObjectID = "XXn-p4-IU2"; */
+"XXn-p4-IU2.text" = "REGISTER COMPLETED";
+
+/* Class = "UILabel"; text = "Aceptar"; ObjectID = "XnC-HW-JqG"; */
+"XnC-HW-JqG.text" = "Accept";
+
+/* Class = "UILabel"; text = "¿No has recibido el código?"; ObjectID = "Y78-CU-lKC"; */
+"Y78-CU-lKC.text" = "¿Have not you received the code?";
+
+/* Class = "UILabel"; text = "No tienes reservas"; ObjectID = "YG8-Eu-ETK"; */
+"YG8-Eu-ETK.text" = "You have no bookings";
+
+/* Class = "UILabel"; text = "Abrir"; ObjectID = "YdS-y4-u7Q"; */
+"YdS-y4-u7Q.text" = "Open";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZUB-I1-lPq"; */
+"ZUB-I1-lPq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ACCEDE A TU LLAVE:"; ObjectID = "Zu0-xp-j8p"; */
+"Zu0-xp-j8p.text" = "GET YOUR KEY:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "a6e-Ge-qfi"; */
+"a6e-Ge-qfi.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "REENVIAR"; ObjectID = "bT8-EB-avb"; */
+"bT8-EB-avb.normalTitle" = "RESEND";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "bTu-KO-fdR"; */
+"bTu-KO-fdR.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Tu código"; ObjectID = "foe-e4-HRh"; */
+"foe-e4-HRh.text" = "Your code";
+
+/* Class = "UILabel"; text = "HOTEL OASIS"; ObjectID = "g7U-4r-zpR"; */
+"g7U-4r-zpR.text" = "HOTEL OASIS";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gd9-pw-YAd"; */
+"gd9-pw-YAd.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "AÑADIR"; ObjectID = "hFD-uj-BFJ"; */
+"hFD-uj-BFJ.normalTitle" = "CONFIRM";
+
+/* Class = "UILabel"; text = "Estamos comparando tu documento con tu selfie. Por favor, espera unos segundos."; ObjectID = "iBM-ia-cSb"; */
+"iBM-ia-cSb.text" = "We are comparing your document with your selfie. Please, wait a few seconds.";
+
+/* Class = "UILabel"; text = "Introduce el código de verificación que hemos enviado al teléfono:"; ObjectID = "j5l-au-rxv"; */
+"j5l-au-rxv.text" = "Enter the verification code we have sent to your phone:";
+
+/* Class = "UILabel"; text = "VERIFICANDO..."; ObjectID = "jIm-Rn-QFO"; */
+"jIm-Rn-QFO.text" = "VERIFYNG...";
+
+/* Class = "UILabel"; text = "Introduce tu número de teléfono y te enviaremos un código de verificación para obtener tu llave:"; ObjectID = "lzx-jb-aJm"; */
+"lzx-jb-aJm.text" = "Enter your phone number and we will send you a verification code to get your key:";
+
+/* Class = "UILabel"; text = "Tipo de documento"; ObjectID = "m22-uI-M0M"; */
+"m22-uI-M0M.text" = "Document type";
+
+/* Class = "UILabel"; text = "¡IDENTIDAD VERIFICADA!"; ObjectID = "msk-Wd-2DQ"; */
+"msk-Wd-2DQ.text" = "¡IDENTITY VERIFIED!";
+
+/* Class = "UILabel"; text = "+00 000000000"; ObjectID = "otc-UT-DwX"; */
+"otc-UT-DwX.text" = "+00 000000000";
+
+/* Class = "UILabel"; text = "Completa el registro una sola vez y no tendrás que volver a hacerlo mas. Pulsa OK para comenzar."; ObjectID = "pgF-U1-l0g"; */
+"pgF-U1-l0g.text" = "Complete the registration once and you will not have to do it again. Press OK to start.";
+
+/* Class = "UILabel"; text = "Por el lado de la foto."; ObjectID = "phK-c2-5VB"; */
+"phK-c2-5VB.text" = "On the side of the photo.";
+
+/* Class = "UILabel"; text = "Puerta Principal"; ObjectID = "pxw-CZ-XfZ"; */
+"pxw-CZ-XfZ.text" = "Main Door";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "q5s-VF-nzy"; */
+"q5s-VF-nzy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Habitación 124"; ObjectID = "qjF-OR-Ejx"; */
+"qjF-OR-Ejx.text" = "Room 124";
+
+/* Class = "UILabel"; text = "Puerta Principal"; ObjectID = "s0G-eR-S2a"; */
+"s0G-eR-S2a.text" = "Main Door";
+
+/* Class = "UILabel"; text = "El link es el mismo para todos."; ObjectID = "s6d-6v-f5B"; */
+"s6d-6v-f5B.text" = "The link is the same for everyone.";
+
+/* Class = "UIButton"; normalTitle = "CONTINUAR"; ObjectID = "sbj-3V-yVU"; */
+"sbj-3V-yVU.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "Si quieres registrar a más huéspedes, comparte este link o regístralos tú mismo."; ObjectID = "tBN-Po-b0V"; */
+"tBN-Po-b0V.text" = "If you want to register more guests, share this link or register them yourself.";
+
+/* Class = "UIButton"; normalTitle = "LLAMAR"; ObjectID = "tY8-Ik-lPM"; */
+"tY8-Ik-lPM.normalTitle" = "CALL";
+
+/* Class = "UILabel"; text = "RESERVADO DESDE:"; ObjectID = "tvz-BF-faf"; */
+"tvz-BF-faf.text" = "BOOKED FROM:";
+
+/* Class = "UIButton"; normalTitle = "ACCEDE A TUS LLAVES"; ObjectID = "wsh-of-Vjp"; */
+"wsh-of-Vjp.normalTitle" = "GET YOUR KEYS";
+
+/* Class = "UIButton"; normalTitle = "ESCANEAR"; ObjectID = "zcO-0g-62r"; */
+"zcO-0g-62r.normalTitle" = "SCAN";

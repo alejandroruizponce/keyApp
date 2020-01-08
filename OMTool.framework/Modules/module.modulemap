@@ -1,0 +1,6 @@
+framework module OMTool {
+  umbrella header "OMTool.h"
+
+  export *
+  module * { export * }
+}

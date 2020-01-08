@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tokenRegisterPolice</key>
+	<string>Token f5302e8b8fb1c300f833a021fb09107a19cfdd91</string>
+	<key>tokenBiomatching</key>
+	<string>Token 9e3ebea45b741c84b232f2c21229eb00f3d9caa4</string>
+	<key>Api-Key</key>
+	<string>81f23bc4a4a4676ba78a8edae1fcc92c59d367b6</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module ScannerChekinIOS {
+  umbrella header "ScannerChekinIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

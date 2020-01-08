@@ -1,0 +1,115 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (5.0.0-beta.3)
+  - EVGPUImage2 (0.2.0)
+  - FSPagerView (0.8.2)
+  - GPUImage (0.1.7)
+  - Hero (1.4.0)
+  - JSONModel (1.8.0)
+  - JTMaterialTransition (2.0.3)
+  - lottie-ios (3.0.3)
+  - M13Checkbox (3.3.2)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.7)
+  - MRCountryPicker (0.0.8)
+  - ScannerChekinIOS (1.1.6):
+    - EVGPUImage2
+    - GPUImage
+    - TesseractOCRiOS
+    - UIImage-Resize
+  - Spring (1.0.6)
+  - SwiftyJSON (4.2.0)
+  - SwiftyPickerPopover (6.6.5)
+  - TesseractOCRiOS (5.0.1)
+  - TTLock (2.8.6)
+  - UIImage-Resize (1.0.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - Alamofire (~> 5.0.0-beta.3)
+  - FSPagerView
+  - Hero
+  - JSONModel
+  - JTMaterialTransition (~> 2.0)
+  - lottie-ios
+  - M13Checkbox
+  - MJExtension
+  - MJRefresh
+  - MRCountryPicker (~> 0.0.8)
+  - ScannerChekinIOS
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+  - SwiftyJSON (~> 4.0)
+  - SwiftyPickerPopover
+  - TTLock
+
+SPEC REPOS:
+  https://github.com/alejandroruizponce/SCPodSpecs.git:
+    - ScannerChekinIOS
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Alamofire
+    - EVGPUImage2
+    - FSPagerView
+    - GPUImage
+    - Hero
+    - JSONModel
+    - JTMaterialTransition
+    - lottie-ios
+    - M13Checkbox
+    - MJExtension
+    - MJRefresh
+    - MRCountryPicker
+    - SwiftyJSON
+    - SwiftyPickerPopover
+    - TesseractOCRiOS
+    - TTLock
+    - UIImage-Resize
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: fafd0b2e8d4d46405bd86fa7ba84bb7f73a20b13
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Alamofire: 50d6fa7e8cbe7f84559e86ab641ffd029db655f8
+  EVGPUImage2: 1e057f25fbab811b8a9e98d19f96bbd5eb434913
+  FSPagerView: 816a18842306973cc7cc6df8a5332272f7815c30
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  JTMaterialTransition: 7ff22aae6cd969734d775708f08e3656c52cb7bf
+  lottie-ios: 06e0b54aab85ba128e332687d7f4ac4861a7a7ae
+  M13Checkbox: d75dca81d61c9903e7f091f32b35a3254bc97dce
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  MRCountryPicker: 1aeea66de25cdef79dce3b91d8ad9db643c1cc01
+  ScannerChekinIOS: f160c8aeb941d76a9cce515be36213c878fba9c9
+  Spring: 3d113f14575ef79aec9c5f906dfa4f5001c03254
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SwiftyPickerPopover: f2975fd0233d04c0a8f8d52d09b6f24b882de6fb
+  TesseractOCRiOS: 2c189465f86abb030d0c5141c90da9705b647854
+  TTLock: b81a8a27453dbe74f06106af4213dfd03aca0dc3
+  UIImage-Resize: fa776860f10e6900bbaf53a73e494bdceaaccc77
+
+PODFILE CHECKSUM: 13935debc364966b070b27e8a6198c71763b1fd3
+
+COCOAPODS: 1.5.2
